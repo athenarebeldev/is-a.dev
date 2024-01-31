@@ -1,0 +1,11 @@
+{
+    "description": "AthenaRebel's Links",
+    "repo": "https://github.com/athenarebeldev/athenarebeldev.github.io",
+    "owner": {
+        "username": "athenarebeldev",
+        "email": "hello@athenarebel.dev",
+    },
+    "record": {
+        "CNAME": "athenarebeldev.github.io"
+    }
+} 
