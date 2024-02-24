@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "AthenaRebel",
+    "email": "hello@athenarebel.dev",
+    "repo": "https://github.com/athenarebeldev/athenarebeldev.github.io"
+  },
+  "record": {
+    "CNAME": "athenarebeldev.github.io/"
+  }
+}
